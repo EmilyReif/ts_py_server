@@ -6,11 +6,9 @@ __pycache__
 ts_py_server/
 .ipynb_checkpoints/
 
-# testing
-/coverage
-
 # production
-/build
+ui/build
+ui/yarn.lock
 
 # misc
 .DS_Store
