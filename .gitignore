@@ -2,8 +2,8 @@
 
 # dependencies
 ui/node_modules
-/__pycache__
-/ts_py_server/
+__pycache__
+ts_py_server/
 .ipynb_checkpoints/
 
 # testing
